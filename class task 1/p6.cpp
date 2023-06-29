@@ -39,8 +39,8 @@ void DISPLAY()
 	{
 		cout<<"marks:"<<marks[i]<<endl;
 	}
-	cout<<"avra:"<<av<<endl;
-	cout<<"per:"<<per<<endl;
+	cout<<"total:"<<av<<endl;
+	cout<<"avg:"<<per<<endl;
 }
 };
 int main()
